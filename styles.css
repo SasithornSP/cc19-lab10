@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.main-wrapper {
+    background-color: skyblue;
+    height: 100vh;
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.733), rgba(244, 55, 8, 0.881)), 
+    url("https://picsum.photos/id/33/800");
+
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    /* background-size: auto; */
+    background-size: cover;
+    color: aliceblue;
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+
+} 
